@@ -15,3 +15,6 @@ Os principais métodos utilizados são:
 - `.slice()`: Para remover a menor e a maior nota da lista.
 - `.reduce()`: Para somar as notas restantes e calcular a média.
 - `forEach()`: Para iterar sobre a lista de atletas e processar suas notas.
+
+
+Projeto feito com parceria da plataforma [DEVstart](https://app.devstart.tech/learn/).
